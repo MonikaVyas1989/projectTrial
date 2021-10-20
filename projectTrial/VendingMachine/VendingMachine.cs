@@ -6,8 +6,6 @@ namespace projectTrial
 {
     class VendingMachine
     {
-
-
         //From VendingMachine Folder
     }
 }

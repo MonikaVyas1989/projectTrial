@@ -2,11 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace projectTrial
+namespace projectTrial.Product
 {
-    class VendingMachine
+    class VendingItem
     {
-
 
     }
 }
